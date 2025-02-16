@@ -1,4 +1,4 @@
-- 👋 Hi, I'm {%h/=}.
+- 👋 Hi, I'm Fuchsjunges.
 - 🌱 I currently program mainly in Python, but I’m also interested in learning other programming languages.
 - 🐈 Cats rule the world. They are simply to lazy to use their power
 - 📫 How to reach me: You won’t reach me. Use my code or not, but expect nothing special from me.
